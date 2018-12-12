@@ -25,7 +25,7 @@ namespace DS
 
         public void addtest(Test ZAB)
         {
-            
+            Console.WriteLine();
         }  
 
         public void addtester(string id, string familyname, string name, string birthdate, string sex, string tel, address address, int experience, int maxtests, string kindofcar, float distance)

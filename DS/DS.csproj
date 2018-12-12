@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Dal_imp.cs" />
-    <Compile Include="DataSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
